@@ -4788,6 +4788,10 @@ body .search-modal .close:hover {
   background-image: url(assets/images/slider/banner_2.jpg);
   /* background-image: url(assets/images/slider/style1/h1-2.jpg); */
 }
+.rs-slider.slider-style1 .slider .slider-item.slide-bg3 {
+  background-image: url(assets/images/slider/banner_3.jpg);
+  /* background-image: url(assets/images/slider/style1/h1-2.jpg); */
+}
 .rs-slider.slider-style1 .slider .slider-item.slide-bg2 .slider-inner {
   display: flex;
   justify-content: flex-end;
