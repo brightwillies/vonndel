@@ -4726,7 +4726,8 @@ body .search-modal .close:hover {
 	08. Slider Section CSS
 ---------------------------------------*/
 .rs-slider.slider-style1 .slider .slider-item {
-  background-image: url(assets/images/slider/style1/h1-1.jpg);
+  background-image: url(assets/images/slider/banner_1.jpg);
+  /* background-image: url(assets/images/slider/style1/h1-1.jpg); */
   background-position: top center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -4784,7 +4785,8 @@ body .search-modal .close:hover {
   left: 38%;
 }
 .rs-slider.slider-style1 .slider .slider-item.slide-bg2 {
-  background-image: url(assets/images/slider/style1/h1-2.jpg);
+  background-image: url(assets/images/slider/banner_2.jpg);
+  /* background-image: url(assets/images/slider/style1/h1-2.jpg); */
 }
 .rs-slider.slider-style1 .slider .slider-item.slide-bg2 .slider-inner {
   display: flex;
